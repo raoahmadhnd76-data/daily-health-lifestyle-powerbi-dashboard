@@ -112,7 +112,8 @@ It helps users understand how daily choices influence their performance and well
 ---
 
 # Dashboard Video
-![Dashboard video](Recording 2025-12-11 221046.gif)
+Loading...
+![Dashboard video](Life_expectancy_dashboard.gif)
 
 ---
 ## 📥 PBIX Download
